@@ -53,3 +53,38 @@ opacity: 0.6;
 .botao:hover{
     opacity: 0.6;
 }
+@media (max-width: 640px) {
+    body{
+        text-align: left;
+        margin-left: 10px;
+    }
+    h1{
+        text-align: left;
+        margin-left: 10px;
+    }
+    p{
+        text-align: left;
+        margin-left: 10px;
+    }
+    ul{
+        text-align: left;
+        margin-left: 0px;
+    }
+    ul li a{
+        text-align: left;
+        margin-left: 0px;
+        padding: 0px;
+    }
+    .segundo-paragrafo{
+        text-align: left;
+        margin-left: 10px;
+    }
+    .terceiro-paragrafo{
+        text-align: left;
+        margin-left: 10px;
+    }
+    .botao{
+        text-align: left;
+        margin-left: 10px;
+    }
+}
